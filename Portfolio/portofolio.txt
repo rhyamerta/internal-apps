@@ -1,6 +1,11 @@
 <html>
 <head>
   <tittle>RHY Amerta Development</tittle>
+  <style>
+    .body{
+      background-image:url(ba_image.jpg);
+    }
+  </style>
 </head>
 <body>
 </body>
